@@ -1,3 +1,5 @@
 # marvel-ultimate-war
 
-CS uni project
+Java university project 
+
+2D Marvel Game
